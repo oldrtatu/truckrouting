@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/truckrouting/precache-manifest.874933cfd36d4db4013e9b852c9b7729.js"
+  "/truckrouting/precache-manifest.16252a70ec76d35ccadccbd13dd31e79.js"
 );
 
 workbox.clientsClaim();
